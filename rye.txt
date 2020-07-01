@@ -1,2 +1,2 @@
-rye
+rye new
 new
