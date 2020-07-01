@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-test
-rye
-=======
-test test
->>>>>>> 80dcf2a2b54d008bfb3724e080935b47a754f394
